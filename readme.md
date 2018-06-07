@@ -1,3 +1,3 @@
 # SiphWeb
 
-![siphweb logo](img/siphweblogo.png)
+![siphweb logo](img/siphweblogo_medium.png)
