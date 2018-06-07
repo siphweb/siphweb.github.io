@@ -1,3 +1,3 @@
 # SiphWeb
 
-![siphweb logo](img/siphweblogo.png)
+<img src="img/siphweblogo.png" width="300" alt="siphweb logo"/>
